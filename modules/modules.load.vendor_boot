@@ -1,0 +1,16 @@
+clk-sprd.ko
+ums9621-clk.ko
+sprd_hwspinlock.ko
+spi-sprd-adi.ko
+sprd-pmic-spi.ko
+ump9620-regulator.ko
+ump9621-regulator.ko
+gpio-sprd.ko
+gpio-eic-sprd.ko
+gpio-pmic-eic-sprd.ko
+i2c-sprd.ko
+sdhci-sprd.ko
+mmc_hsq.ko
+mmc_swcq.ko
+cqhci.ko
+sprd_soc_id.ko
